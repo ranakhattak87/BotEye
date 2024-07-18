@@ -1,5 +1,5 @@
 
-InHAR Dataset Preprocessing Tutorial in Colab
+InHARD Dataset Preprocessing Tutorial in Colab
 This tutorial guides you through preprocessing the INHARD dataset in Google Colab. The process involves downloading the dataset from a public repository, storing it on your Google Drive, extracting dataframes (if available), and saving action frames per target class as separate folders.
 
 Prerequisites:
